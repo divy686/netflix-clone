@@ -6,7 +6,7 @@ It was created to practice frontend development, UI design, and DOM manipulation
 ---
 
 ##  Live Demo
-👉 (Add your GitHub Pages link here)
+👉 https://divy686.github.io/netflix-clone/
 
 ---
 
