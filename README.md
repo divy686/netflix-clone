@@ -6,7 +6,7 @@ It was created to practice frontend development, UI design, and DOM manipulation
 ---
 
 ##  Live Demo
-👉 https://divy686.github.io/netflix-clone/
+👉 https://netflix-clone-iota-tan.vercel.app/
 
 ---
 
